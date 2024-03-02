@@ -1,0 +1,2 @@
+# MagicStone-
+Magic stone project
